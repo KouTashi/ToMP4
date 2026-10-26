@@ -1,0 +1,21 @@
+__pycache__/
+input/
+output/
+
+# 動画ファイルはリポジトリに含めない
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+*.ts
+*.mts
+*.m2ts
